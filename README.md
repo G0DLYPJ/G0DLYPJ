@@ -520,6 +520,4 @@ That's it! The snake will update every day automatically.
 
 ---
 
-<p align="center">
-  <i>Built with ⚡ && ❤️ by Pranjal Jha | Cyberpunk Profile v2.0</i>
-</p>
+
