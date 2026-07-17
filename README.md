@@ -346,10 +346,13 @@ Systems & Optimization
 
 <h2 align="center">🎛️ &nbsp; SYSTEM ADD-ONS</h2>
 
-### 🎵 **Now Playing (Spotify Integration)**
+### 🧩 **LeetCode Stats**
 <div align="center">
-<img src="https://novatorem-g0dlypj.vercel.app/api/spotify" width="450"/>
-<br/>
+
+<!-- PLACEHOLDER: replace "G0DLYPJ" with your actual LeetCode username (may differ from GitHub) -->
+<img src="https://leetcard.jacoblin.cool/prjh_15?theme=dark&font=Fira%20Code&ext=heatmap" width="90%"/>
+
+</div>
 <!-- PLACEHOLDER: Deploy your own free Spotify widget via github.com/novatorem/novatorem -->
 </div>
 
