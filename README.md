@@ -462,31 +462,6 @@ That's it! The snake will update every day automatically.
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
 
 <!-- ╔════════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   ⚡ PHILOSOPHY & APPROACH                              ║ -->
-<!-- ╚════════════════════════════════════════════════════════════════════════╝ -->
-
-<h2 align="center">⚡ &nbsp; CORE PRINCIPLES</h2>
-
-```
-├─ DATA-DRIVEN DECISION MAKING
-│  └─ Intuition is dangerous. Math never lies.
-│
-├─ CONSTRAINT-AWARE SOLUTIONS
-│  └─ Perfect theory ≠ practical systems. Real constraints matter.
-│
-├─ CONTINUOUS LEARNING
-│  └─ The field evolves. Stay sharp. Stay ahead.
-│
-├─ BUILD WHAT YOU'D USE
-│  └─ If you wouldn't use it, neither will anyone else.
-│
-└─ SHIP FAST, ITERATE FASTER
-   └─ Done is better than perfect. Feedback beats planning.
-```
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3">
-
-<!-- ╔════════════════════════════════════════════════════════════════════════╗ -->
 <!-- ║                         FOOTER: TRANSMISSION END                       ║ -->
 <!-- ╚════════════════════════════════════════════════════════════════════════╝ -->
 
