@@ -454,12 +454,6 @@ That's it! The snake will update every day automatically.
 - System design deep-dive
 - Cloud architecture (AWS/GCP)
 
-### 🌟 **Long-term Vision**
-- Build MLOps pipeline
-- Ship SaaS product
-- Lead ML team
-- Speak at conferences
-- Published research
 
 </td>
 </tr>
